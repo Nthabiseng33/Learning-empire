@@ -1,0 +1,31 @@
+p {
+  color: rgb(8, 8, 8);
+  
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h7 {
+  box-shadow: 5px 10px #888888;
+  background-color: blueviolet;
+
+
+    
+    border-style: outset;}
+  
+
+  p1 {
+    font-size: 40;
+  
+
+    
+    font-family: "Times New Roman", Times, serif;
+  }
+  img {
+    width: 200px;
+    height: 200px;
+  }
